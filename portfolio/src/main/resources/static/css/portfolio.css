@@ -1,0 +1,45 @@
+* {
+
+  font-weight: inherit;
+  font-style: inherit;
+  font-family: Arial, serif;
+  font-size: 100%;
+  outline: 0;
+  margin: 0 auto;
+  background:#708090;
+  
+}
+	  
+#wrapper {
+	margin: 0 auto;
+	width: 750px;
+	display: flex;
+	
+
+}
+
+p {
+	font-size: 15;
+	margin: top 350px;
+	font-color: white;
+}
+
+#footer{
+	margin: 20px;
+	
+	
+}
+	 
+a {
+    color: white;
+    text-decoration: none;
+    display: inline;
+}
+
+a:hover 
+{
+     color: #c0c0c0; 
+     text-decoration:none; 
+     cursor:pointer;  
+}
+
