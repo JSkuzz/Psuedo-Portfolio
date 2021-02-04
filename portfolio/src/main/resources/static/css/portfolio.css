@@ -1,5 +1,4 @@
 * {
-
   font-weight: inherit;
   font-style: inherit;
   font-family: Arial, serif;
@@ -7,27 +6,21 @@
   outline: 0;
   margin: 0 auto;
   background:#708090;
-  
 }
 	  
 #wrapper {
 	margin: 0 auto;
 	width: 750px;
-	display: flex;
-	
-
+/* 	display: flex; */
 }
 
 p {
-	font-size: 15;
 	margin: top 350px;
 	font-color: white;
 }
 
 #footer{
 	margin: 20px;
-	
-	
 }
 	 
 a {
